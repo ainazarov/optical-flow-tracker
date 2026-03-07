@@ -1,0 +1,6 @@
+frames: 86
+alive: 11/167
+survival_rate: 0.3468122578372666
+mean_track_len: 44.0
+mask_area_ratio: 0.0523155864197531
+mask_components: 2.1176470588235294
