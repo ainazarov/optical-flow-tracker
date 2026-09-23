@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.ipynb text eol=lf
+*.gif binary
+*.mp4 binary
+*.avi binary
+*.png binary

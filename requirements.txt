@@ -1,3 +1,4 @@
-opencv-python
-numpy
-matplotlib
+opencv-python>=4.8,<5
+numpy>=1.24,<3
+matplotlib>=3.7,<4
+jupyterlab>=4,<5
